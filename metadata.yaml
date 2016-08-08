@@ -1,0 +1,27 @@
+_repo: Review-of-the-Work-of-Mr-John-Stuart-Mill-Entitled-Examination-of-Sir-William-Hamilton-s-Phil__12002
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grote, George
+    birthdate: 1794
+    deathdate: 1871
+    gutenberg_agent_id: '4168'
+    url: http://www.gutenberg.org/2009/agents/4168
+    wikipedia: http://en.wikipedia.org/wiki/George_Grote
+description: ''
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12002'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Mill, John Stuart, 1806-1873. Examination of Sir William Hamilton''s philosophy'
+- GITenberg
+title: Review of the Work of Mr John Stuart Mill Entitled, 'Examination of Sir William
+  Hamilton's Philosophy.'
+url: http://www.gutenberg.org/ebooks/12002
